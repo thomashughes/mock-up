@@ -1,2 +1,2 @@
 # mock-up
-code for a website mock that is fully mobile responsive
+an old website, one of the very first I attempted. IMG links mostly broken
